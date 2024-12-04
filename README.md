@@ -5,6 +5,14 @@ Here’s a professional GitHub repository description for your project:
 # Zomato Dataset Analysis  
 This repository contains a comprehensive analysis of the Zomato dataset using Python. The project leverages popular data analysis libraries to extract meaningful insights, visualize trends, and understand patterns in restaurant data.  
 
+**Dataset**
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("rajeshrampure/zomato-dataset")
+
+print("Path to dataset files:", path)
+
 ## Key Features:  
 - **Data Cleaning and Preparation**: Handle missing values, remove duplicates, and format data for analysis.  
 - **Exploratory Data Analysis (EDA)**: Gain insights into restaurant ratings, cuisines, pricing, and geographical distribution.  
