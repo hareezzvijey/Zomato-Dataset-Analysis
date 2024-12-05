@@ -1,7 +1,3 @@
-Here’s a professional GitHub repository description for your project:  
-
----
-
 # Zomato Dataset Analysis  
 This repository contains a comprehensive analysis of the Zomato dataset using Python. The project leverages popular data analysis libraries to extract meaningful insights, visualize trends, and understand patterns in restaurant data.  
 
@@ -34,4 +30,3 @@ Clone the repository and explore the Jupyter notebooks for step-by-step analysis
 ## Contributions:  
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.  
 
----
